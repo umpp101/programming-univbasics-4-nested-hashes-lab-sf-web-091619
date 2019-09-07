@@ -78,7 +78,9 @@ programmer_hash[:yukihiro_matsumoto]
           :languages => ["C"]
         }
      }
-
+programmer_hash[:yukihiro_matsumoto]
+      
+      p programmer_hash
     
 end
 
