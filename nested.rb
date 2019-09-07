@@ -59,9 +59,6 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-programmer_hash[:yukihiro_matsumoto]
-      
-      p programmer_hash
 
 	programmer_hash = 
  		{
