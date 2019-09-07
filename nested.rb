@@ -16,12 +16,10 @@ def hopper
         }
      }
 
-puts programmer_hash[:grace_hopper][:known_for]
-puts programmer_hash[:grace_hopper][:languages]
+puts programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for
-	puts programmer_hash[:alan_kay][:known_for]
 	
 	programmer_hash = 
  		{
